@@ -4,8 +4,10 @@ Procedural fantasy magic seals generator.
 - Press ENTER to generate.
 - Press s to save as png.
 ## Sample images
-![](images/seal1)
+![](images/rune1.png)
 
-![](images/seal2)
+![](images/rune2.png)
 
-![](images/seal3)
+![](images/rune3.png)
+
+![](images/rune4.png)
